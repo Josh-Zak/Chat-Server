@@ -11,3 +11,4 @@ Simple command line chat server that allows for multiple clients to connect and 
 # Features
 - Stores a log of the most recent messages to send to new clients
 - Name of the user is sent along with the message
+- Can handle multiple clients
