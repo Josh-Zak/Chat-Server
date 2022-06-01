@@ -1,7 +1,4 @@
 # Chat-Server
-
-# Description
-Simple command line chat server that allows for multiple clients to connect and chat all at the same time by using pthreads.
 # How to Run
 1. Compile the server with `g++ server.cpp RobustIO.cpp -pthread`
 2. Run the server with no args
